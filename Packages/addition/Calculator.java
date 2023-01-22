@@ -1,4 +1,4 @@
-package com.addition;
+package addition;
 
 import java.util.Scanner;
 

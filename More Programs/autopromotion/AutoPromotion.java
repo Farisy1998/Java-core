@@ -1,4 +1,4 @@
-package com.autopromotion;
+package autopromotion;
 
 public class AutoPromotion {
 	// In Auto Promotion the immediate next promoted data type will be used. An also if

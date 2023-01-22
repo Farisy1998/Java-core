@@ -1,4 +1,4 @@
-package com.mainmethodoverriding;
+package mainmethodoverriding;
 
 public class Child extends Parent {
 

@@ -1,4 +1,4 @@
-package com.interfacea;
+package interfacea;
 
 public interface Circle {
 	float pie = 3.14F;

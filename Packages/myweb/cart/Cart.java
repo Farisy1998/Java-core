@@ -1,4 +1,4 @@
-package com.myweb.cart;
+package myweb.cart;
 
 public class Cart {
 

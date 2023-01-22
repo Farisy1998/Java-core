@@ -1,4 +1,4 @@
-package com.emc.manager;
+package manager;
 
 import com.emc.entities.Event;
 

@@ -1,4 +1,4 @@
-package com.emc.entities;
+package entities;
 
 public class Venue extends EMBase {
 

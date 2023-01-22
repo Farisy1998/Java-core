@@ -1,6 +1,6 @@
-package com.abstraction;
+package abstraction;
 
-public class user {
+public class User {
 
 	public static void main(String[] args) {
 		HDFCBank user1 =  new HDFCBank();

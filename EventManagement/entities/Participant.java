@@ -1,4 +1,4 @@
-package com.emc.entities;
+package entities;
 
 public class Participant extends EMBase {
 

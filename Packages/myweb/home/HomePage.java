@@ -1,4 +1,4 @@
-package com.myweb.home;
+package myweb.home;
 
 public class HomePage {
 

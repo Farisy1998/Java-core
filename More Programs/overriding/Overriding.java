@@ -1,4 +1,4 @@
-package com.overriding;
+package overriding;
 
 public class Overriding {
 

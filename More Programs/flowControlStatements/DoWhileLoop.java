@@ -1,4 +1,4 @@
-package com.flowcontrolstatements;
+package flowcontrolstatements;
 
 public class DoWhileLoop {
 

@@ -1,4 +1,4 @@
-package com.imports;
+package imports;
 
 // static imports
 import static java.lang.System.out;

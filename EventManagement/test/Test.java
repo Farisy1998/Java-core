@@ -1,4 +1,4 @@
-package com.emc.test;
+package test;
 
 import com.emc.entities.Event;
 import com.emc.entities.Organizer;

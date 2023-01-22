@@ -1,4 +1,4 @@
-package com.interfacea;
+package interfacea;
 
 public class Test {
 
