@@ -1,4 +1,4 @@
-package mainmethodoverriding;
+package mainMethodOverriding;
 
 public class Parent {
 

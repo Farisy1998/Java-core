@@ -1,6 +1,6 @@
 package manager;
 
-import com.emc.entities.Event;
+import entities.Event;
 
 public interface EventManager {
 

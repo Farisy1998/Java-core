@@ -1,10 +1,10 @@
 package test;
 
-import com.emc.entities.Event;
-import com.emc.entities.Organizer;
-import com.emc.manager.EventManager;
-import com.emc.manager.EventManagerImpl;
-import com.emc.manager.EventManagerImpl2;
+import entities.Event;
+import entities.Organizer;
+import manager.EventManager;
+import manager.EventManagerImpl;
+import manager.EventManagerImpl2;
 
 public class Test {
 

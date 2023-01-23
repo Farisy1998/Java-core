@@ -1,6 +1,6 @@
 package manager;
 
-import com.emc.entities.Event;
+import entities.Event;
 
 public class EventManagerImpl2 implements EventManager {
 

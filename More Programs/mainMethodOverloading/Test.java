@@ -1,4 +1,4 @@
-package mainmethodoverloading;
+package mainMethodOverloading;
 
 public class Test {
 

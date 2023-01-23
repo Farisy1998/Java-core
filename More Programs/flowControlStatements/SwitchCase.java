@@ -1,4 +1,4 @@
-package flowcontrolstatements;
+package flowControlStatements;
 
 public class SwitchCase {
 
