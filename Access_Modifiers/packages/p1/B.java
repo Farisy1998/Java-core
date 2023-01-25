@@ -1,4 +1,6 @@
-package p1;
+package packages.p1;
+
+import packages.p1.A;
 
 public class B {
 

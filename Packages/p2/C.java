@@ -10,8 +10,8 @@ public class C {
 		System.out.println("");
 		// If two packages have the same class. Then we have to follow the fully qualified
 		// name along with package name.
-		p1.A.method1();
-		p1.A obj2 = new p1.A();
+		packages.p1.A.method1();
+		packages.p1.A obj2 = new packages.p1.A();
 		obj2.method2();
 
 	}
