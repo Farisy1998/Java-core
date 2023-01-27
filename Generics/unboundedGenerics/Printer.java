@@ -1,4 +1,4 @@
-package Generics;
+package Generics.unboundedGenerics;
 
 public class Printer<T> {
     T thingsToPrint;

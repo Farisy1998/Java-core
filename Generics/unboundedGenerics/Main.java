@@ -1,4 +1,4 @@
-package Generics;
+package Generics.unboundedGenerics;
 
 public class Main {
     public static void main(String[] args) {
